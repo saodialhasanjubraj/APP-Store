@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://example.com/images/weather-pro.png",
+    "title": "Weather Pro",
+    "companyName": "WeatherTech Inc.",
+    "id": 1,
+    "description": "Accurate weather forecasts with real-time updates and severe weather alerts",
+    "size": 45.2,
+    "reviews": 12500,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 1250 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 4375 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/finance-tracker.png",
+    "title": "Finance Tracker",
+    "companyName": "MoneyMatters LLC",
+    "id": 2,
+    "description": "Comprehensive personal finance management with budgeting tools",
+    "size": 78.6,
+    "reviews": 8900,
+    "ratingAvg": 4.2,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 445 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1780 },
+      { "name": "4 star", "count": 2670 },
+      { "name": "5 star", "count": 3115 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/photo-editor.png",
+    "title": "Photo Editor Plus",
+    "companyName": "Creative Studios",
+    "id": 3,
+    "description": "Advanced photo editing tools with filters and professional features",
+    "size": 152.3,
+    "reviews": 21500,
+    "ratingAvg": 4.7,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 645 },
+      { "name": "2 star", "count": 860 },
+      { "name": "3 star", "count": 2150 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 13545 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/fitness-tracker.png",
+    "title": "Fitness Tracker",
+    "companyName": "HealthTech Solutions",
+    "id": 4,
+    "description": "Track your workouts, steps, and health metrics with detailed analytics",
+    "size": 67.8,
+    "reviews": 15600,
+    "ratingAvg": 4.3,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 780 },
+      { "name": "2 star", "count": 1560 },
+      { "name": "3 star", "count": 3120 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 5460 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/recipe-book.png",
+    "title": "Recipe Book",
+    "companyName": "Culinary Arts Ltd",
+    "id": 5,
+    "description": "Discover thousands of recipes with step-by-step cooking instructions",
+    "size": 89.1,
+    "reviews": 9800,
+    "ratingAvg": 4.6,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 294 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 1960 },
+      { "name": "5 star", "count": 6076 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/travel-planner.png",
+    "title": "Travel Planner",
+    "companyName": "Global Adventures Inc.",
+    "id": 6,
+    "description": "Plan your trips with flight bookings, hotel reservations, and itinerary management",
+    "size": 112.4,
+    "reviews": 13200,
+    "ratingAvg": 4.1,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 924 },
+      { "name": "2 star", "count": 1584 },
+      { "name": "3 star", "count": 2640 },
+      { "name": "4 star", "count": 3960 },
+      { "name": "5 star", "count": 4092 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/language-learning.png",
+    "title": "Language Master",
+    "companyName": "Education First Corp",
+    "id": 7,
+    "description": "Learn new languages with interactive lessons and speech recognition",
+    "size": 134.7,
+    "reviews": 18700,
+    "ratingAvg": 4.8,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 561 },
+      { "name": "2 star", "count": 748 },
+      { "name": "3 star", "count": 1496 },
+      { "name": "4 star", "count": 3740 },
+      { "name": "5 star", "count": 12155 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/music-player.png",
+    "title": "Music Stream Pro",
+    "companyName": "AudioTech Studios",
+    "id": 8,
+    "description": "High-quality music streaming with personalized recommendations and offline mode",
+    "size": 96.5,
+    "reviews": 24500,
+    "ratingAvg": 4.4,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 1715 },
+      { "name": "2 star", "count": 2450 },
+      { "name": "3 star", "count": 4900 },
+      { "name": "4 star", "count": 7350 },
+      { "name": "5 star", "count": 8085 }
+    ]
+  }
+]
