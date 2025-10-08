@@ -10,7 +10,9 @@ const AppsComponent = () => {
       <p>
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
-      <div className="appsFoundSearch"></div>
+      <div className="appsFoundSearch">
+        <h1>({largeData.length}) Apps Found</h1>
+      </div>
 
       <div className="grid grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
         {largeData.map((card) => (
