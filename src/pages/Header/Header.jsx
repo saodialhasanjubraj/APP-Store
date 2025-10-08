@@ -48,7 +48,10 @@ export const Header = () => {
         <ul className="menu menu-horizontal px-1">{links}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn bg-gradient-to-b from-[#632EE3] to-[#9F62F2]">
+        <a
+          href="https://github.com/saodialhasanjubraj?tab=repositories"
+          className="btn bg-gradient-to-b from-[#632EE3] to-[#9F62F2]"
+        >
           <img src="GitHubLogo.png" alt="" srcset="" />
           <h1>Contribute</h1>
         </a>
