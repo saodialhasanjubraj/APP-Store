@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://example.com/images/weather-pro.png",
+    "image": "public/EightAppsImage/weatherPro.png",
     "title": "Weather Pro",
     "companyName": "WeatherTech Inc.",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/finance-tracker.png",
+    "image": "public/EightAppsImage/financeTracker.png",
     "title": "Finance Tracker",
     "companyName": "MoneyMatters LLC",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/photo-editor.png",
+    "image": "public/EightAppsImage/photoEditorPlus.png",
     "title": "Photo Editor Plus",
     "companyName": "Creative Studios",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/fitness-tracker.png",
+    "image": "public/EightAppsImage/fitnessTracker.png",
     "title": "Fitness Tracker",
     "companyName": "HealthTech Solutions",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/recipe-book.png",
+    "image": "public/EightAppsImage/recipeBook.png",
     "title": "Recipe Book",
     "companyName": "Culinary Arts Ltd",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/travel-planner.png",
+    "image": "public/EightAppsImage/travelPlanner.png",
     "title": "Travel Planner",
     "companyName": "Global Adventures Inc.",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/language-learning.png",
+    "image": "public/EightAppsImage/languageMaster.png",
     "title": "Language Master",
     "companyName": "Education First Corp",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/music-player.png",
+    "image": "public/EightAppsImage/musicStream.png",
     "title": "Music Stream Pro",
     "companyName": "AudioTech Studios",
     "id": 8,

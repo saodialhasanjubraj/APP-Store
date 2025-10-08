@@ -1,9 +1,61 @@
-import React from 'react'
-
+import React, { Suspense } from "react";
+import TotalUseInfo from "./Total App use Inforamtion Component/TotalUseInfo";
+import TreandingApps from "./Treanding Apps/TreandingApps";
+import { useLoaderData } from "react-router";
 const Home = () => {
-  return (
-    <div>Home</div>
-  )
-}
+  const data = useLoaderData();
 
-export default Home
+  return (
+    <div className="w-full flex flex-col justify-center items-center">
+      <h1 className="text-7xl font-semibold text-center">
+        We Build <br /> <span className="text-purple-400">Productive</span> Apps
+      </h1>
+      <p>
+        At HERO.IO, we craft innovative apps designed to make everyday life
+        simpler, smarter, and more exciting.
+        <br /> Our goal is to turn your ideas into digital experiences that
+        truly make an impact.
+      </p>
+
+      <div className="googleAppStoreBtns flex items-center gap-x-4 mt-10 mb-5">
+        <a href="https://play.google.com/store/games?hl=en">
+          <button className="btn btn-outline py-1 h-15 px-5 text-2xl">
+            <img
+              width="60"
+              height="60"
+              src="https://img.icons8.com/fluency/48/google-play.png"
+              alt="google-play"
+            />
+            Google Play
+          </button>
+        </a>
+        <a href="https://www.apple.com/app-store/">
+          <button className="btn btn-outline py-1 h-15 px-5 text-2xl">
+            <img
+              width="60"
+              height="60"
+              src="https://img.icons8.com/color/48/apple-app-store--v3.png"
+              alt="apple-app-store--v3"
+            />
+            App Store
+          </button>
+        </a>
+      </div>
+      <img
+        src="src/assets/hero.png"
+        alt=""
+        srcset=""
+        className="mx-auto my-5"
+      />
+
+      <TotalUseInfo />
+      <Suspense
+        fallback={<span className="loading loading-spinner loading-xl"></span>}
+      >
+        <TreandingApps data={data} />
+      </Suspense>
+    </div>
+  );
+};
+
+export default Home;

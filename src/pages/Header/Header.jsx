@@ -39,16 +39,18 @@ export const Header = () => {
         </div>
         <a className="btn btn-ghost text-xl">
           <img src="src/assets/logo.png" alt="" srcset="" className="h-8 w-8" />
-          Hero UI
+          <h1 className="font-gradient-to-b from-[#632EE3] to-[#9F62F2]">
+            Hero UI
+          </h1>
         </a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{links}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">
+        <a className="btn bg-gradient-to-b from-[#632EE3] to-[#9F62F2]">
           <img src="GitHubLogo.png" alt="" srcset="" />
-          Contribute
+          <h1>Contribute</h1>
         </a>
       </div>
     </div>

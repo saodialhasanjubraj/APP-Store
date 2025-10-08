@@ -11,7 +11,12 @@ export const router = createBrowserRouter([
     Component: Root,
     errorElement: <ErrorPage />,
     children: [
-      { index: true, path: "/", Component: Home },
+      {
+        index: true,
+        path: "/",
+        Component: Home,
+        loader: () => fetch("EightApps.json"),
+      },
       { path: "/appsComponent", Component: AppsComponent },
       { path: "/installApps", element: <InstallApps /> },
     ],
