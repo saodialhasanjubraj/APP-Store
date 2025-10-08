@@ -1,0 +1,650 @@
+[
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Finance Tracker",
+    "companyName": "MoneyMatters LLC",
+    "id": 1,
+    "description": "Comprehensive personal finance management with budgeting tools",
+    "size": 78.6,
+    "reviews": 8900,
+    "ratingAvg": 4.2,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 445 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1780 },
+      { "name": "4 star", "count": 2670 },
+      { "name": "5 star", "count": 3115 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Health Monitor",
+    "companyName": "WellnessTech Inc",
+    "id": 2,
+    "description": "Track your fitness goals and monitor health metrics daily",
+    "size": 65.3,
+    "reviews": 12400,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 248 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1860 },
+      { "name": "4 star", "count": 3720 },
+      { "name": "5 star", "count": 5952 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Task Manager Pro",
+    "companyName": "ProductivityHub",
+    "id": 3,
+    "description": "Organize your tasks and boost productivity with smart reminders",
+    "size": 42.1,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 312 },
+      { "name": "2 star", "count": 468 },
+      { "name": "3 star", "count": 1560 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 8580 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Photo Editor Plus",
+    "companyName": "Creative Solutions",
+    "id": 4,
+    "description": "Professional photo editing with filters and AI enhancements",
+    "size": 95.8,
+    "reviews": 22300,
+    "ratingAvg": 4.4,
+    "downloads": 5100000,
+    "ratings": [
+      { "name": "1 star", "count": 669 },
+      { "name": "2 star", "count": 1338 },
+      { "name": "3 star", "count": 3345 },
+      { "name": "4 star", "count": 6690 },
+      { "name": "5 star", "count": 10258 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Weather Live",
+    "companyName": "SkyWatch Technologies",
+    "id": 5,
+    "description": "Real-time weather updates with accurate forecasts",
+    "size": 28.4,
+    "reviews": 18900,
+    "ratingAvg": 4.3,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 567 },
+      { "name": "2 star", "count": 945 },
+      { "name": "3 star", "count": 2835 },
+      { "name": "4 star", "count": 5670 },
+      { "name": "5 star", "count": 8883 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Music Stream",
+    "companyName": "AudioWave Media",
+    "id": 6,
+    "description": "Stream millions of songs with high-quality audio",
+    "size": 52.7,
+    "reviews": 34500,
+    "ratingAvg": 4.6,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 690 },
+      { "name": "2 star", "count": 1035 },
+      { "name": "3 star", "count": 3450 },
+      { "name": "4 star", "count": 10350 },
+      { "name": "5 star", "count": 18975 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "VideoChat Connect",
+    "companyName": "ConnectWorld Inc",
+    "id": 7,
+    "description": "High-quality video calls with screen sharing features",
+    "size": 71.2,
+    "reviews": 27800,
+    "ratingAvg": 4.1,
+    "downloads": 6700000,
+    "ratings": [
+      { "name": "1 star", "count": 1112 },
+      { "name": "2 star", "count": 1668 },
+      { "name": "3 star", "count": 4170 },
+      { "name": "4 star", "count": 8340 },
+      { "name": "5 star", "count": 12510 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Recipe Master",
+    "companyName": "Culinary Apps Co",
+    "id": 8,
+    "description": "Discover and save thousands of delicious recipes",
+    "size": 48.9,
+    "reviews": 11200,
+    "ratingAvg": 4.5,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 224 },
+      { "name": "2 star", "count": 560 },
+      { "name": "3 star", "count": 1680 },
+      { "name": "4 star", "count": 3360 },
+      { "name": "5 star", "count": 5376 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Quick Notes",
+    "companyName": "NoteWorks Studio",
+    "id": 9,
+    "description": "Fast and simple note-taking with cloud sync",
+    "size": 23.5,
+    "reviews": 9600,
+    "ratingAvg": 4.4,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 288 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1440 },
+      { "name": "4 star", "count": 2880 },
+      { "name": "5 star", "count": 4512 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Language Master",
+    "companyName": "EduTech Global",
+    "id": 10,
+    "description": "Learn new languages with interactive lessons and games",
+    "size": 87.3,
+    "reviews": 31200,
+    "ratingAvg": 4.7,
+    "downloads": 7800000,
+    "ratings": [
+      { "name": "1 star", "count": 468 },
+      { "name": "2 star", "count": 624 },
+      { "name": "3 star", "count": 3120 },
+      { "name": "4 star", "count": 9360 },
+      { "name": "5 star", "count": 17628 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Fitness Coach AI",
+    "companyName": "FitLife Systems",
+    "id": 11,
+    "description": "Personalized workout plans with AI-powered coaching",
+    "size": 69.4,
+    "reviews": 19500,
+    "ratingAvg": 4.6,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 390 },
+      { "name": "2 star", "count": 585 },
+      { "name": "3 star", "count": 1950 },
+      { "name": "4 star", "count": 5850 },
+      { "name": "5 star", "count": 10725 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Travel Buddy",
+    "companyName": "Wanderlust Apps",
+    "id": 12,
+    "description": "Explore destinations with offline maps and travel tips",
+    "size": 112.6,
+    "reviews": 16700,
+    "ratingAvg": 4.3,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 501 },
+      { "name": "2 star", "count": 835 },
+      { "name": "3 star", "count": 2505 },
+      { "name": "4 star", "count": 5010 },
+      { "name": "5 star", "count": 7849 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "ShopSmart",
+    "companyName": "E-Commerce Solutions",
+    "id": 13,
+    "description": "Compare prices and shop from multiple stores in one app",
+    "size": 54.8,
+    "reviews": 25600,
+    "ratingAvg": 4.2,
+    "downloads": 5900000,
+    "ratings": [
+      { "name": "1 star", "count": 1024 },
+      { "name": "2 star", "count": 1536 },
+      { "name": "3 star", "count": 3840 },
+      { "name": "4 star", "count": 7680 },
+      { "name": "5 star", "count": 11520 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Calm Mind",
+    "companyName": "Mindfulness Co",
+    "id": 14,
+    "description": "Meditation and relaxation exercises for stress relief",
+    "size": 38.2,
+    "reviews": 14300,
+    "ratingAvg": 4.8,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 143 },
+      { "name": "2 star", "count": 286 },
+      { "name": "3 star", "count": 1430 },
+      { "name": "4 star", "count": 4290 },
+      { "name": "5 star", "count": 8151 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "News Daily",
+    "companyName": "InfoStream Media",
+    "id": 15,
+    "description": "Stay updated with personalized news from trusted sources",
+    "size": 31.7,
+    "reviews": 21800,
+    "ratingAvg": 4.1,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 872 },
+      { "name": "2 star", "count": 1308 },
+      { "name": "3 star", "count": 3270 },
+      { "name": "4 star", "count": 6540 },
+      { "name": "5 star", "count": 9810 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "SecureVault",
+    "companyName": "CyberSafe Technologies",
+    "id": 16,
+    "description": "Store and manage passwords with military-grade encryption",
+    "size": 19.8,
+    "reviews": 13500,
+    "ratingAvg": 4.6,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 405 },
+      { "name": "3 star", "count": 1350 },
+      { "name": "4 star", "count": 4050 },
+      { "name": "5 star", "count": 7425 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "File Explorer Pro",
+    "companyName": "Storage Solutions Inc",
+    "id": 17,
+    "description": "Manage files and folders with advanced organization tools",
+    "size": 26.3,
+    "reviews": 10900,
+    "ratingAvg": 4.3,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 327 },
+      { "name": "2 star", "count": 545 },
+      { "name": "3 star", "count": 1635 },
+      { "name": "4 star", "count": 3270 },
+      { "name": "5 star", "count": 5123 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Calculator Plus",
+    "companyName": "MathTech Studios",
+    "id": 18,
+    "description": "Advanced calculator with scientific and conversion features",
+    "size": 12.4,
+    "reviews": 8200,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 164 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 1230 },
+      { "name": "4 star", "count": 2460 },
+      { "name": "5 star", "count": 3936 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Calendar Sync",
+    "companyName": "TimeKeeper Apps",
+    "id": 19,
+    "description": "Smart calendar with event reminders and scheduling",
+    "size": 34.6,
+    "reviews": 17200,
+    "ratingAvg": 4.4,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 516 },
+      { "name": "2 star", "count": 860 },
+      { "name": "3 star", "count": 2580 },
+      { "name": "4 star", "count": 5160 },
+      { "name": "5 star", "count": 8084 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Mail Pro",
+    "companyName": "Communication Hub",
+    "id": 20,
+    "description": "Unified email client for all your accounts",
+    "size": 45.9,
+    "reviews": 20100,
+    "ratingAvg": 4.2,
+    "downloads": 4600000,
+    "ratings": [
+      { "name": "1 star", "count": 804 },
+      { "name": "2 star", "count": 1206 },
+      { "name": "3 star", "count": 3015 },
+      { "name": "4 star", "count": 6030 },
+      { "name": "5 star", "count": 9045 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Document Scanner",
+    "companyName": "ScanTech Solutions",
+    "id": 21,
+    "description": "Scan documents and convert to PDF with OCR technology",
+    "size": 57.3,
+    "reviews": 12800,
+    "ratingAvg": 4.5,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 256 },
+      { "name": "2 star", "count": 640 },
+      { "name": "3 star", "count": 1920 },
+      { "name": "4 star", "count": 3840 },
+      { "name": "5 star", "count": 6144 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Podcast Hub",
+    "companyName": "Audio Network Inc",
+    "id": 22,
+    "description": "Discover and stream your favorite podcasts",
+    "size": 41.8,
+    "reviews": 18600,
+    "ratingAvg": 4.6,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 372 },
+      { "name": "2 star", "count": 558 },
+      { "name": "3 star", "count": 1860 },
+      { "name": "4 star", "count": 5580 },
+      { "name": "5 star", "count": 10230 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Game Zone",
+    "companyName": "PlayMore Studios",
+    "id": 23,
+    "description": "Collection of casual games for endless entertainment",
+    "size": 124.5,
+    "reviews": 42300,
+    "ratingAvg": 4.4,
+    "downloads": 11200000,
+    "ratings": [
+      { "name": "1 star", "count": 1269 },
+      { "name": "2 star", "count": 2115 },
+      { "name": "3 star", "count": 6345 },
+      { "name": "4 star", "count": 12690 },
+      { "name": "5 star", "count": 19881 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Dictionary Ultimate",
+    "companyName": "WordWise Publishing",
+    "id": 24,
+    "description": "Comprehensive dictionary with offline access",
+    "size": 89.7,
+    "reviews": 9300,
+    "ratingAvg": 4.7,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 139 },
+      { "name": "2 star", "count": 186 },
+      { "name": "3 star", "count": 930 },
+      { "name": "4 star", "count": 2790 },
+      { "name": "5 star", "count": 5255 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Flashlight Pro",
+    "companyName": "UtilityMax Apps",
+    "id": 25,
+    "description": "Bright flashlight with SOS and strobe features",
+    "size": 8.2,
+    "reviews": 6700,
+    "ratingAvg": 4.3,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 201 },
+      { "name": "2 star", "count": 335 },
+      { "name": "3 star", "count": 1005 },
+      { "name": "4 star", "count": 2010 },
+      { "name": "5 star", "count": 3149 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Instant Translate",
+    "companyName": "Global Language Tech",
+    "id": 26,
+    "description": "Translate text and speech in over 100 languages",
+    "size": 73.1,
+    "reviews": 24500,
+    "ratingAvg": 4.5,
+    "downloads": 6300000,
+    "ratings": [
+      { "name": "1 star", "count": 490 },
+      { "name": "2 star", "count": 735 },
+      { "name": "3 star", "count": 2450 },
+      { "name": "4 star", "count": 7350 },
+      { "name": "5 star", "count": 13475 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "QR Code Reader",
+    "companyName": "ScanIt Technologies",
+    "id": 27,
+    "description": "Fast QR code and barcode scanner with history",
+    "size": 15.7,
+    "reviews": 11600,
+    "ratingAvg": 4.4,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 348 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 1740 },
+      { "name": "4 star", "count": 3480 },
+      { "name": "5 star", "count": 5452 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Voice Recorder HD",
+    "companyName": "AudioPro Labs",
+    "id": 28,
+    "description": "High-quality voice recording with transcription",
+    "size": 32.4,
+    "reviews": 10500,
+    "ratingAvg": 4.6,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 315 },
+      { "name": "3 star", "count": 1050 },
+      { "name": "4 star", "count": 3150 },
+      { "name": "5 star", "count": 5775 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Digital Compass",
+    "companyName": "Navigation Tools Co",
+    "id": 29,
+    "description": "Accurate compass with GPS coordinates",
+    "size": 11.3,
+    "reviews": 7800,
+    "ratingAvg": 4.2,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 312 },
+      { "name": "2 star", "count": 468 },
+      { "name": "3 star", "count": 1170 },
+      { "name": "4 star", "count": 2340 },
+      { "name": "5 star", "count": 3510 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Alarm Master",
+    "companyName": "TimeWise Solutions",
+    "id": 30,
+    "description": "Smart alarm clock with sleep tracking and challenges",
+    "size": 29.8,
+    "reviews": 14700,
+    "ratingAvg": 4.5,
+    "downloads": 3300000,
+    "ratings": [
+      { "name": "1 star", "count": 294 },
+      { "name": "2 star", "count": 735 },
+      { "name": "3 star", "count": 2205 },
+      { "name": "4 star", "count": 4410 },
+      { "name": "5 star", "count": 7056 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Battery Optimizer",
+    "companyName": "PowerTech Apps",
+    "id": 31,
+    "description": "Monitor and optimize battery life with detailed stats",
+    "size": 18.6,
+    "reviews": 9900,
+    "ratingAvg": 4.1,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 396 },
+      { "name": "2 star", "count": 594 },
+      { "name": "3 star", "count": 1485 },
+      { "name": "4 star", "count": 2970 },
+      { "name": "5 star", "count": 4455 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Video Studio Pro",
+    "companyName": "Creative Media Labs",
+    "id": 32,
+    "description": "Professional video editing with effects and filters",
+    "size": 138.2,
+    "reviews": 28900,
+    "ratingAvg": 4.4,
+    "downloads": 7100000,
+    "ratings": [
+      { "name": "1 star", "count": 867 },
+      { "name": "2 star", "count": 1445 },
+      { "name": "3 star", "count": 4335 },
+      { "name": "4 star", "count": 8670 },
+      { "name": "5 star", "count": 13583 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Cloud Drive",
+    "companyName": "DataStore Solutions",
+    "id": 33,
+    "description": "Secure cloud storage with automatic backup",
+    "size": 44.7,
+    "reviews": 19800,
+    "ratingAvg": 4.3,
+    "downloads": 4400000,
+    "ratings": [
+      { "name": "1 star", "count": 594 },
+      { "name": "2 star", "count": 990 },
+      { "name": "3 star", "count": 2970 },
+      { "name": "4 star", "count": 5940 },
+      { "name": "5 star", "count": 9306 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Social Hub",
+    "companyName": "ConnectAll Media",
+    "id": 34,
+    "description": "Manage multiple social media accounts in one place",
+    "size": 67.5,
+    "reviews": 33600,
+    "ratingAvg": 4.2,
+    "downloads": 8400000,
+    "ratings": [
+      { "name": "1 star", "count": 1344 },
+      { "name": "2 star", "count": 2016 },
+      { "name": "3 star", "count": 5040 },
+      { "name": "4 star", "count": 10080 },
+      { "name": "5 star", "count": 15120 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "E-Book Reader",
+    "companyName": "Digital Library Inc",
+    "id": 35,
+    "description": "Read e-books with customizable settings and bookmarks",
+    "size": 51.3,
+    "reviews": 15400,
+    "ratingAvg": 4.6,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 308 },
+      { "name": "2 star", "count": 462 },
+      { "name": "3 star", "count": 1540 },
+      { "name": "4 star", "count": 4620 },
+      { "name": "5 star", "count": 8470 }
+    ]
+  },
+  {
+    "image": "public/EightAppsImage/fitnessTracker.png",
+    "title": "Pet Care Manager",
+    "companyName": "PawPrint Apps",
+    "id": 36,
+    "description": "Track pet health, appointments, and reminders",
+    "size": 36.9,
+    "reviews": 8500,
+    "ratingAvg": 4.7,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 127 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2550 },
+      { "name": "5 star", "count": 4803 }
+    ]
+  }
+]
