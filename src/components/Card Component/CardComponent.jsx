@@ -1,8 +1,12 @@
 import React from "react";
+import { Link } from "react-router";
 
-const CardComponent = ({card}) => {
+const CardComponent = ({ card }) => {
   return (
-    <div className="w-[285px] h-auto py-10 flex items-center flex-col bg-white shadow-2xl text-black px-5 rounded-2xl">
+    <Link
+      to={`/appDetails/${card.id}`}
+      className="w-[285px] h-auto py-10 flex items-center flex-col bg-white shadow-2xl text-black px-5 rounded-2xl"
+    >
       <img src={card.image} alt="" srcset="" className="h-30 w-35" />
       <h1 className="font-bold mt-5">{card.title}</h1>
       <div className="downloadRatingBtns flex items-center justify-between w-full mt-5">
@@ -29,7 +33,7 @@ const CardComponent = ({card}) => {
           {card.ratingAvg}
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

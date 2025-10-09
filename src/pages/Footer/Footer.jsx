@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="mt-5">
       <footer className="footer sm:footer-horizontal bg-base-200 text-base-content p-10">
         <aside>
-          <img src="src/assets/logo.png" alt="" srcset=""  className="h-25.5 w-25.5 ml-14 mb-2 rotate-52"/>
+          <img src="https://i.postimg.cc/HxC9tjyR/logo.png" alt="" srcset=""  className="h-25.5 w-25.5 ml-14 mb-2 rotate-52"/>
           <p>
             Application Store
             <br />

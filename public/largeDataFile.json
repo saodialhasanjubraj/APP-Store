@@ -1,9 +1,27 @@
 [
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "https://images.unsplash.com/photo-1705077296278-d82dd5c8662f?q=80&w=1109&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Weather Pro",
+    "companyName": "WeatherTech Inc.",
+    "id": 1,
+    "description": "Accurate weather forecasts with real-time updates and severe weather alerts",
+    "size": 45.2,
+    "reviews": 12500,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 1250 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 4375 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?q=80&w=1255&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Finance Tracker",
     "companyName": "MoneyMatters LLC",
-    "id": 1,
+    "id": 2,
     "description": "Comprehensive personal finance management with budgeting tools",
     "size": 78.6,
     "reviews": 8900,
@@ -18,133 +36,115 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
-    "title": "Health Monitor",
-    "companyName": "WellnessTech Inc",
-    "id": 2,
-    "description": "Track your fitness goals and monitor health metrics daily",
-    "size": 65.3,
-    "reviews": 12400,
-    "ratingAvg": 4.5,
-    "downloads": 2500000,
-    "ratings": [
-      { "name": "1 star", "count": 248 },
-      { "name": "2 star", "count": 620 },
-      { "name": "3 star", "count": 1860 },
-      { "name": "4 star", "count": 3720 },
-      { "name": "5 star", "count": 5952 }
-    ]
-  },
-  {
-    "image": "public/EightAppsImage/fitnessTracker.png",
-    "title": "Task Manager Pro",
-    "companyName": "ProductivityHub",
-    "id": 3,
-    "description": "Organize your tasks and boost productivity with smart reminders",
-    "size": 42.1,
-    "reviews": 15600,
-    "ratingAvg": 4.7,
-    "downloads": 3200000,
-    "ratings": [
-      { "name": "1 star", "count": 312 },
-      { "name": "2 star", "count": 468 },
-      { "name": "3 star", "count": 1560 },
-      { "name": "4 star", "count": 4680 },
-      { "name": "5 star", "count": 8580 }
-    ]
-  },
-  {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Photo Editor Plus",
-    "companyName": "Creative Solutions",
-    "id": 4,
-    "description": "Professional photo editing with filters and AI enhancements",
-    "size": 95.8,
-    "reviews": 22300,
-    "ratingAvg": 4.4,
-    "downloads": 5100000,
-    "ratings": [
-      { "name": "1 star", "count": 669 },
-      { "name": "2 star", "count": 1338 },
-      { "name": "3 star", "count": 3345 },
-      { "name": "4 star", "count": 6690 },
-      { "name": "5 star", "count": 10258 }
-    ]
-  },
-  {
-    "image": "public/EightAppsImage/fitnessTracker.png",
-    "title": "Weather Live",
-    "companyName": "SkyWatch Technologies",
-    "id": 5,
-    "description": "Real-time weather updates with accurate forecasts",
-    "size": 28.4,
-    "reviews": 18900,
-    "ratingAvg": 4.3,
+    "companyName": "Creative Studios",
+    "id": 3,
+    "description": "Advanced photo editing tools with filters and professional features",
+    "size": 152.3,
+    "reviews": 21500,
+    "ratingAvg": 4.7,
     "downloads": 4200000,
     "ratings": [
-      { "name": "1 star", "count": 567 },
-      { "name": "2 star", "count": 945 },
-      { "name": "3 star", "count": 2835 },
-      { "name": "4 star", "count": 5670 },
-      { "name": "5 star", "count": 8883 }
+      { "name": "1 star", "count": 645 },
+      { "name": "2 star", "count": 860 },
+      { "name": "3 star", "count": 2150 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 13545 }
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
-    "title": "Music Stream",
-    "companyName": "AudioWave Media",
-    "id": 6,
-    "description": "Stream millions of songs with high-quality audio",
-    "size": 52.7,
-    "reviews": 34500,
+    "image": "https://plus.unsplash.com/premium_vector-1732319937319-2fe6ac7fb613?q=80&w=1054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Fitness Tracker",
+    "companyName": "HealthTech Solutions",
+    "id": 4,
+    "description": "Track your workouts, steps, and health metrics with detailed analytics",
+    "size": 67.8,
+    "reviews": 15600,
+    "ratingAvg": 4.3,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 780 },
+      { "name": "2 star", "count": 1560 },
+      { "name": "3 star", "count": 3120 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 5460 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_vector-1720428871163-68277dd6baf8?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Recipe Book",
+    "companyName": "Culinary Arts Ltd",
+    "id": 5,
+    "description": "Discover thousands of recipes with step-by-step cooking instructions",
+    "size": 89.1,
+    "reviews": 9800,
     "ratingAvg": 4.6,
-    "downloads": 8900000,
+    "downloads": 1900000,
     "ratings": [
-      { "name": "1 star", "count": 690 },
-      { "name": "2 star", "count": 1035 },
-      { "name": "3 star", "count": 3450 },
-      { "name": "4 star", "count": 10350 },
-      { "name": "5 star", "count": 18975 }
+      { "name": "1 star", "count": 294 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 1960 },
+      { "name": "5 star", "count": 6076 }
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
-    "title": "VideoChat Connect",
-    "companyName": "ConnectWorld Inc",
-    "id": 7,
-    "description": "High-quality video calls with screen sharing features",
-    "size": 71.2,
-    "reviews": 27800,
+    "image": "https://plus.unsplash.com/premium_vector-1718387200528-d786c6e7d820?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Travel Planner",
+    "companyName": "Global Adventures Inc.",
+    "id": 6,
+    "description": "Plan your trips with flight bookings, hotel reservations, and itinerary management",
+    "size": 112.4,
+    "reviews": 13200,
     "ratingAvg": 4.1,
-    "downloads": 6700000,
+    "downloads": 2700000,
     "ratings": [
-      { "name": "1 star", "count": 1112 },
-      { "name": "2 star", "count": 1668 },
-      { "name": "3 star", "count": 4170 },
-      { "name": "4 star", "count": 8340 },
-      { "name": "5 star", "count": 12510 }
+      { "name": "1 star", "count": 924 },
+      { "name": "2 star", "count": 1584 },
+      { "name": "3 star", "count": 2640 },
+      { "name": "4 star", "count": 3960 },
+      { "name": "5 star", "count": 4092 }
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
-    "title": "Recipe Master",
-    "companyName": "Culinary Apps Co",
+    "image": "/EightAppsImage/languageMaster.png",
+    "title": "Language Master",
+    "companyName": "Education First Corp",
+    "id": 7,
+    "description": "Learn new languages with interactive lessons and speech recognition",
+    "size": 134.7,
+    "reviews": 18700,
+    "ratingAvg": 4.8,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 561 },
+      { "name": "2 star", "count": 748 },
+      { "name": "3 star", "count": 1496 },
+      { "name": "4 star", "count": 3740 },
+      { "name": "5 star", "count": 12155 }
+    ]
+  },
+  {
+    "image": "/EightAppsImage/musicStream.png",
+    "title": "Music Stream Pro",
+    "companyName": "AudioTech Studios",
     "id": 8,
-    "description": "Discover and save thousands of delicious recipes",
-    "size": 48.9,
-    "reviews": 11200,
-    "ratingAvg": 4.5,
-    "downloads": 2300000,
+    "description": "High-quality music streaming with personalized recommendations and offline mode",
+    "size": 96.5,
+    "reviews": 24500,
+    "ratingAvg": 4.4,
+    "downloads": 5200000,
     "ratings": [
-      { "name": "1 star", "count": 224 },
-      { "name": "2 star", "count": 560 },
-      { "name": "3 star", "count": 1680 },
-      { "name": "4 star", "count": 3360 },
-      { "name": "5 star", "count": 5376 }
+      { "name": "1 star", "count": 1715 },
+      { "name": "2 star", "count": 2450 },
+      { "name": "3 star", "count": 4900 },
+      { "name": "4 star", "count": 7350 },
+      { "name": "5 star", "count": 8085 }
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Quick Notes",
     "companyName": "NoteWorks Studio",
     "id": 9,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Language Master",
     "companyName": "EduTech Global",
     "id": 10,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Fitness Coach AI",
     "companyName": "FitLife Systems",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+       "image": "https://plus.unsplash.com/premium_vector-1732319937319-2fe6ac7fb613?q=80&w=1054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Travel Buddy",
     "companyName": "Wanderlust Apps",
     "id": 12,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "ShopSmart",
     "companyName": "E-Commerce Solutions",
     "id": 13,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+        "image": "https://plus.unsplash.com/premium_vector-1732319937319-2fe6ac7fb613?q=80&w=1054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Calm Mind",
     "companyName": "Mindfulness Co",
     "id": 14,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "News Daily",
     "companyName": "InfoStream Media",
     "id": 15,
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+       "image": "https://plus.unsplash.com/premium_vector-1732319937319-2fe6ac7fb613?q=80&w=1054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "SecureVault",
     "companyName": "CyberSafe Technologies",
     "id": 16,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "File Explorer Pro",
     "companyName": "Storage Solutions Inc",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+       "image": "https://plus.unsplash.com/premium_vector-1732319937319-2fe6ac7fb613?q=80&w=1054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Calculator Plus",
     "companyName": "MathTech Studios",
     "id": 18,
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Calendar Sync",
     "companyName": "TimeKeeper Apps",
     "id": 19,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+        "image": "https://plus.unsplash.com/premium_vector-1732319937319-2fe6ac7fb613?q=80&w=1054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Mail Pro",
     "companyName": "Communication Hub",
     "id": 20,
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Document Scanner",
     "companyName": "ScanTech Solutions",
     "id": 21,
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Podcast Hub",
     "companyName": "Audio Network Inc",
     "id": 22,
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Game Zone",
     "companyName": "PlayMore Studios",
     "id": 23,
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+   "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Dictionary Ultimate",
     "companyName": "WordWise Publishing",
     "id": 24,
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Flashlight Pro",
     "companyName": "UtilityMax Apps",
     "id": 25,
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Instant Translate",
     "companyName": "Global Language Tech",
     "id": 26,
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+   "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "QR Code Reader",
     "companyName": "ScanIt Technologies",
     "id": 27,
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+   "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Voice Recorder HD",
     "companyName": "AudioPro Labs",
     "id": 28,
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Digital Compass",
     "companyName": "Navigation Tools Co",
     "id": 29,
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Alarm Master",
     "companyName": "TimeWise Solutions",
     "id": 30,
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Battery Optimizer",
     "companyName": "PowerTech Apps",
     "id": 31,
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Video Studio Pro",
     "companyName": "Creative Media Labs",
     "id": 32,
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "Cloud Drive",
     "companyName": "DataStore Solutions",
     "id": 33,
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Social Hub",
     "companyName": "ConnectAll Media",
     "id": 34,
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "/EightAppsImage/fitnessTracker.png",
     "title": "E-Book Reader",
     "companyName": "Digital Library Inc",
     "id": 35,
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+   "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Pet Care Manager",
     "companyName": "PawPrint Apps",
     "id": 36,

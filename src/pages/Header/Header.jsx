@@ -37,12 +37,12 @@ export const Header = () => {
             {links}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">
-          <img src="src/assets/logo.png" alt="" srcset="" className="h-8 w-8" />
+        <Link to='/' className="btn btn-ghost text-xl">
+          <img src="https://i.postimg.cc/HxC9tjyR/logo.png" alt="" srcset="" className="h-8 w-8" />
           <h1 className="font-gradient-to-b from-[#632EE3] to-[#9F62F2]">
             Hero UI
           </h1>
-        </a>
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{links}</ul>

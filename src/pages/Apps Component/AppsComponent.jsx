@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Suspense } from "react";
 import { useLoaderData } from "react-router";
 import CardComponent from "../../components/Card Component/CardComponent";
 
@@ -10,15 +10,21 @@ const AppsComponent = () => {
       <p>
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
-      <div className="appsFoundSearch">
+      <div className="appsFoundSearch w-full flex items-center justify-between">
         <h1>({largeData.length}) Apps Found</h1>
+        <input
+          type="text"
+          placeholder="Search Apps"
+          className="border-2 border-gray-300 pl-1"
+        />
       </div>
-
-      <div className="grid grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
-        {largeData.map((card) => (
-          <CardComponent card={card} />
-        ))}
-      </div>
+      <Suspense fallback={<h1>data loading............</h1>}>
+        <div className="grid grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
+          {largeData.map((card) => (
+            <CardComponent card={card} />
+          ))}
+        </div>
+      </Suspense>
     </div>
   );
 };

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router";
 
 export const ErrorPage = () => {
   return (
@@ -13,7 +14,7 @@ export const ErrorPage = () => {
       <h3 className="text-xl font-semibold mt-5">
         The page you are looking for is not available.
       </h3>
-      <a
+      <Link to="/"
         href="https://github.com/saodialhasanjubraj?tab=repositories"
         className="btn bg-gradient-to-b from-[#632EE3] to-[#9F62F2] px-5 rounded-2xl mt-3 py-6 text-xl flex items-center justify-center gap-x-6"
       >
@@ -24,7 +25,7 @@ export const ErrorPage = () => {
           alt="home"
         />
         <h1>Back to Home</h1>
-      </a>
+      </Link>
     </div>
   );
 };

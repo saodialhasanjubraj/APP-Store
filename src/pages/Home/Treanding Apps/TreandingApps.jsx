@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router";
-import CardComponent from "../../../components/Card Component/CardComponent";
+// import CardComponent from "../../../components/Card Component/CardComponent";
+import CardComponentTrandingApps from "../../../components/Card Component/CardComponentTrandingApps";
 
 const TreandingApps = ({ data }) => {
   return (
@@ -9,7 +10,7 @@ const TreandingApps = ({ data }) => {
       <p>Explore All Trending Apps on the Market developed by us</p>
       <div className="grid grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
         {data.map((card) => (
-        <CardComponent card={card}/>
+        <CardComponentTrandingApps card={card}/>
         ))}
       </div>
 
