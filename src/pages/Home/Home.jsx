@@ -7,7 +7,7 @@ const Home = () => {
 
   return (
     <div className="w-full flex flex-col justify-center items-center">
-      <h1 className="text-7xl font-semibold text-center">
+      <h1 className="text-7xl font-semibold text-center mt-8 mb-5">
         We Build <br /> <span className="text-purple-400">Productive</span> Apps
       </h1>
       <p>
@@ -42,7 +42,7 @@ const Home = () => {
         </a>
       </div>
       <img
-        src="src/assets/hero.png"
+        src="https://i.postimg.cc/85Ky9QxP/hero.png"
         alt=""
         srcset=""
         className="mx-auto my-5"

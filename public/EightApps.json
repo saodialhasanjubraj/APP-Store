@@ -1,10 +1,10 @@
 [
   {
-    "image": "public/EightAppsImage/weatherPro.png",
+    "image": "https://images.unsplash.com/photo-1705077296278-d82dd5c8662f?q=80&w=1109&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Weather Pro",
     "companyName": "WeatherTech Inc.",
     "id": 1,
-    "description": "Accurate weather forecasts with real-time updates and severe weather alerts",
+    "description": "Weather Pro is your ultimate companion for staying informed about atmospheric conditions in real-time. This comprehensive weather application delivers accurate forecasts with pinpoint precision, utilizing advanced meteorological algorithms and data from multiple weather stations worldwide. Whether you're planning your daily commute, organizing outdoor activities, or need to stay ahead of changing weather patterns, Weather Pro provides detailed hourly and 10-day forecasts that you can trust. The app features severe weather alerts that notify you immediately about dangerous conditions such as thunderstorms, hurricanes, tornadoes, and extreme temperatures in your area. With interactive radar maps, you can track storm systems as they develop and move, giving you valuable time to prepare. The user-friendly interface displays current conditions including temperature, humidity, wind speed, UV index, and precipitation probability. Weather Pro also offers customizable widgets for your home screen, multiple location tracking for travelers, and historical weather data for trend analysis. The app's intelligent notification system learns your preferences and only alerts you about weather events that matter most to you. Whether you're a casual user checking tomorrow's forecast or a weather enthusiast who wants detailed atmospheric pressure readings and dew points, Weather Pro delivers professional-grade meteorological information in an accessible format. The application works seamlessly offline by caching recent data, ensuring you're never caught without weather information when you need it most.",
     "size": 45.2,
     "reviews": 12500,
     "ratingAvg": 4.5,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/financeTracker.png",
+    "image": "https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?q=80&w=1255&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Finance Tracker",
     "companyName": "MoneyMatters LLC",
     "id": 2,
-    "description": "Comprehensive personal finance management with budgeting tools",
+    "description": "Take complete control of your financial future with Finance Tracker, the comprehensive personal finance management solution designed to help you achieve your monetary goals. This powerful application transforms the way you manage money by providing intuitive budgeting tools that automatically categorize your expenses and income streams. Finance Tracker connects securely to your bank accounts, credit cards, and investment portfolios, giving you a complete financial picture in one convenient location. The app's intelligent algorithms analyze your spending patterns and provide personalized insights to help you identify areas where you can save money and optimize your budget. Create custom budget categories, set spending limits, and receive real-time notifications when you're approaching your limits. The visual dashboard presents your financial health through easy-to-understand charts and graphs, showing you exactly where your money goes each month. Finance Tracker also includes bill reminders to ensure you never miss a payment, helping you maintain excellent credit scores and avoid late fees. The goal-setting feature allows you to plan for major purchases, vacations, or long-term objectives like retirement, with progress tracking that keeps you motivated. Advanced reporting capabilities let you generate detailed financial statements for tax preparation or personal analysis. With bank-level encryption and multi-factor authentication, your sensitive financial information remains completely secure. Whether you're working to eliminate debt, build an emergency fund, or simply want better visibility into your finances, Finance Tracker provides the tools and insights you need to make informed financial decisions and build lasting wealth.",
     "size": 78.6,
     "reviews": 8900,
     "ratingAvg": 4.2,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/photoEditorPlus.png",
+    "image": "https://plus.unsplash.com/premium_photo-1721076216232-2dde64e1b95b?q=80&w=1108&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Photo Editor Plus",
     "companyName": "Creative Studios",
     "id": 3,
-    "description": "Advanced photo editing tools with filters and professional features",
+    "description": "Unleash your creative potential with Photo Editor Plus, the most comprehensive photo editing application available for mobile devices. This professional-grade editing suite brings desktop-quality tools to your fingertips, allowing you to transform ordinary photos into extraordinary visual masterpieces. Whether you're a professional photographer, social media influencer, or casual hobbyist, Photo Editor Plus offers an extensive collection of advanced editing capabilities that rival expensive desktop software. The app features over 200 customizable filters ranging from vintage film effects to modern artistic interpretations, each fully adjustable to match your creative vision. Advanced color correction tools including curves, levels, and HSL adjustments give you precise control over every aspect of your image's appearance. The layer-based editing system allows you to create complex compositions by combining multiple images, text, and graphic elements with professional blending modes and opacity controls. Remove unwanted objects seamlessly with the intelligent content-aware healing brush, or use the clone stamp tool for precise retouching. Portrait enhancement features include skin smoothing, blemish removal, teeth whitening, and eye color adjustment, helping you achieve magazine-quality results. The app's perspective correction and distortion tools are perfect for architectural photography, while the selective adjustment brushes let you edit specific areas without affecting the entire image. Photo Editor Plus also includes batch processing capabilities for editing multiple photos simultaneously, saving you valuable time. Export your creations in various formats and resolutions optimized for different platforms, whether you're posting to social media, printing professionally, or archiving high-resolution originals. With regular updates introducing new features and effects, Photo Editor Plus continues to evolve with the latest photography trends and technologies.",
     "size": 152.3,
     "reviews": 21500,
     "ratingAvg": 4.7,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/fitnessTracker.png",
+    "image": "https://plus.unsplash.com/premium_vector-1732319937319-2fe6ac7fb613?q=80&w=1054&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Fitness Tracker",
     "companyName": "HealthTech Solutions",
     "id": 4,
-    "description": "Track your workouts, steps, and health metrics with detailed analytics",
+    "description": "Transform your health and fitness journey with Fitness Tracker, the all-in-one application designed to help you achieve your wellness goals through comprehensive activity monitoring and detailed analytics. This intelligent fitness companion seamlessly integrates with your smartphone's sensors and compatible wearable devices to automatically track your daily steps, distance traveled, calories burned, and active minutes throughout the day. The app's advanced workout tracking features support over 100 different exercise types, from running and cycling to yoga and strength training, providing real-time performance metrics during your sessions. Monitor your heart rate zones to optimize fat burning and cardiovascular improvements, while the GPS tracking maps your outdoor routes with elevation data and pace analysis. Fitness Tracker's nutrition logging system helps you maintain a balanced diet by tracking your calorie intake, macronutrients, and micronutrients, with a comprehensive food database containing millions of items and barcode scanning for quick entry. The sleep tracking functionality analyzes your rest patterns, providing insights into sleep quality, duration, and cycles to help you improve recovery and overall health. Set personalized goals for weight management, distance milestones, or performance improvements, and watch your progress unfold through intuitive visual charts and trend analysis. The social features allow you to connect with friends, join challenges, and share achievements, creating a supportive community that keeps you motivated. Receive intelligent coaching tips and personalized recommendations based on your activity patterns and goals. The app also integrates with popular health platforms, ensuring all your wellness data stays synchronized across your devices and applications. Whether you're beginning your fitness journey or training for a marathon, Fitness Tracker provides the tools, insights, and motivation you need to stay committed and achieve lasting results.",
     "size": 67.8,
     "reviews": 15600,
     "ratingAvg": 4.3,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/recipeBook.png",
+    "image": "https://plus.unsplash.com/premium_vector-1720428871163-68277dd6baf8?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Recipe Book",
     "companyName": "Culinary Arts Ltd",
     "id": 5,
-    "description": "Discover thousands of recipes with step-by-step cooking instructions",
+    "description": "Discover the joy of cooking with Recipe Book, your digital culinary companion featuring thousands of delicious recipes from cuisines around the world. This comprehensive cooking application transforms your kitchen experience by providing detailed step-by-step instructions, professional cooking tips, and beautiful food photography that guides you through every recipe with confidence. Whether you're a beginner learning basic techniques or an experienced home chef exploring new culinary horizons, Recipe Book offers content suitable for all skill levels. The extensive recipe collection spans breakfast dishes, appetizers, main courses, desserts, and everything in between, with new recipes added weekly by professional chefs and food bloggers. Each recipe includes preparation and cooking times, difficulty ratings, nutritional information, and ingredient lists that can be easily scaled to serve any number of guests. The intelligent search and filter system helps you find perfect recipes based on dietary restrictions, available ingredients, cooking time, or specific occasions. Save your favorite recipes to custom collections for quick access, and add personal notes or modifications to remember what worked best for your family. The integrated shopping list feature automatically compiles ingredients from selected recipes, organizing them by grocery store sections for efficient shopping trips. Recipe Book's cooking mode displays instructions in an easy-to-read format with hands-free voice navigation, keeping your device clean while you cook. Video tutorials demonstrate complex techniques like knife skills, dough preparation, and plating presentations. The meal planning calendar helps you organize weekly menus, ensuring balanced nutrition and variety while reducing food waste. Share your culinary creations with the Recipe Book community, exchange tips with fellow cooking enthusiasts, and discover trending recipes that inspire your next kitchen adventure.",
     "size": 89.1,
     "reviews": 9800,
     "ratingAvg": 4.6,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/travelPlanner.png",
+    "image": "https://plus.unsplash.com/premium_vector-1718387200528-d786c6e7d820?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Travel Planner",
     "companyName": "Global Adventures Inc.",
     "id": 6,
-    "description": "Plan your trips with flight bookings, hotel reservations, and itinerary management",
+    "description": "Experience stress-free travel planning with Travel Planner, the ultimate application for organizing every aspect of your journeys from initial inspiration to final memories. This comprehensive travel management tool revolutionizes how you plan, book, and experience your trips, whether you're embarking on a weekend getaway or planning an extended international adventure. Travel Planner consolidates all your travel needs into one convenient platform, allowing you to search and compare flights from hundreds of airlines, find the perfect accommodations ranging from budget hostels to luxury resorts, and discover authentic local experiences that make your trips unforgettable. The intelligent itinerary builder helps you organize daily activities, restaurant reservations, tours, and transportation with an interactive timeline that ensures you make the most of every destination. Real-time flight tracking keeps you informed about departure gates, delays, and cancellations, while automatic check-in reminders ensure you never miss important travel deadlines. The app's offline access feature downloads your complete itinerary, confirmations, and essential travel documents, keeping critical information accessible even without internet connectivity. Discover hidden gems through curated destination guides featuring local recommendations, cultural insights, and practical tips from experienced travelers and tourism experts. Budget tracking tools help you manage trip expenses, split costs with travel companions, and stay within your financial plans. The collaborative planning features allow you to share itineraries with friends and family, vote on activities, and coordinate group travel effortlessly. Travel Planner also includes packing checklists customized for your destination's climate and planned activities, currency converters, language phrase guides, and emergency contact information. With integration to popular travel services and automatic synchronization across all your devices, Travel Planner transforms complex travel logistics into an organized, enjoyable planning experience that lets you focus on creating lasting memories.",
     "size": 112.4,
     "reviews": 13200,
     "ratingAvg": 4.1,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/languageMaster.png",
+    "image": "https://plus.unsplash.com/premium_vector-1720428871163-68277dd6baf8?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Language Master",
     "companyName": "Education First Corp",
     "id": 7,
-    "description": "Learn new languages with interactive lessons and speech recognition",
+    "description": "Master any language with Language Master, the revolutionary language learning application that combines cutting-edge educational technology with proven learning methodologies to help you achieve fluency faster than traditional methods. This comprehensive language platform offers interactive lessons designed by linguistic experts and native speakers, covering everything from basic vocabulary and grammar fundamentals to advanced conversational skills and cultural nuances. The app's adaptive learning algorithm personalizes your education experience by analyzing your progress, identifying areas needing improvement, and adjusting lesson difficulty to match your evolving proficiency level. Speech recognition technology powered by artificial intelligence evaluates your pronunciation in real-time, providing instant feedback and helping you develop authentic accent and intonation patterns that native speakers will appreciate. Practice speaking, listening, reading, and writing through diverse exercise types including vocabulary drills, grammar challenges, listening comprehension activities, and interactive dialogues that simulate real-world conversations. Language Master supports over 30 languages, allowing you to learn popular choices like Spanish, French, and Mandarin, or explore less commonly taught languages to connect with specific cultures and communities. The spaced repetition system optimizes your memory retention by strategically reviewing previously learned material at scientifically determined intervals, ensuring information moves from short-term to long-term memory effectively. Immerse yourself in authentic language through curated content including news articles, podcasts, videos, and literature appropriate for your skill level. Track your learning streak, earn achievements, and compete with friends through gamified features that make language acquisition engaging and motivating. The offline mode allows you to continue learning during commutes or travels without internet connectivity. Whether you're learning for travel, career advancement, personal enrichment, or connecting with heritage, Language Master provides a comprehensive, flexible, and effective path to multilingual proficiency that fits seamlessly into your daily routine.",
     "size": 134.7,
     "reviews": 18700,
     "ratingAvg": 4.8,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "public/EightAppsImage/musicStream.png",
+    "image": "https://images.unsplash.com/photo-1705077296278-d82dd5c8662f?q=80&w=1109&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "title": "Music Stream Pro",
     "companyName": "AudioTech Studios",
     "id": 8,
-    "description": "High-quality music streaming with personalized recommendations and offline mode",
+    "description": "Elevate your music listening experience with Music Stream Pro, the premium audio streaming service that delivers unlimited access to millions of songs, albums, and playlists in studio-quality sound. This sophisticated music platform combines an extensive catalog spanning every genre and era with intelligent discovery features that help you find your next favorite artist or rediscover forgotten classics. Music Stream Pro's advanced audio technology streams music in lossless, high-resolution formats that preserve every nuance of the original recording, providing an audiophile-grade listening experience that reveals details you've never heard before in compressed audio formats. The personalized recommendation engine analyzes your listening habits, favorite genres, and mood preferences to curate custom playlists and suggest new music that aligns perfectly with your taste. Create unlimited playlists for different occasions, moods, or activities, and share them with friends to spread musical discoveries. The collaborative playlist feature allows multiple users to contribute songs, making it perfect for parties, road trips, or shared listening sessions. Download your favorite tracks, albums, and playlists for offline listening, ensuring your music accompanies you everywhere without requiring data connectivity or draining your mobile plan. Music Stream Pro's lyrics integration displays synchronized text as songs play, helping you sing along, understand foreign language tracks, or appreciate the poetry in music. The social features let you follow friends and artists, see what others are listening to, and discover trending tracks in real-time. Advanced search filters help you find specific recordings, live versions, remixes, or cover songs. The sleep timer and crossfade options provide customized playback control, while the equalizer and audio enhancement tools let you tune sound output to your preferences and headphone characteristics. Whether you're a casual listener seeking background music or a dedicated audiophile demanding pristine sound quality, Music Stream Pro delivers an unparalleled music streaming experience with features that honor both the art and the artists.",
     "size": 96.5,
     "reviews": 24500,
     "ratingAvg": 4.4,

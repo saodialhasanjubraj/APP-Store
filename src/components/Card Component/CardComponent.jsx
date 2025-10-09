@@ -5,7 +5,7 @@ const CardComponent = ({ card }) => {
   return (
     <Link
       to={`/appDetails/${card.id}`}
-      className="w-[285px] h-auto py-10 flex items-center flex-col bg-white shadow-2xl text-black px-5 rounded-2xl"
+      className="w-[285px] h-auto py-10 flex items-center flex-col bg-white shadow-2xl text-black px-5 rounded-2xl hover:cursor-pointer"
     >
       <img src={card.image} alt="" srcset="" className="h-30 w-35" />
       <h1 className="font-bold mt-5">{card.title}</h1>

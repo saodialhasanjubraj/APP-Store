@@ -5,7 +5,7 @@ const CardComponentTrandingApps = ({ card }) => {
   return (
     //! Top 8 tranding website link
     <Link to={`/appDetails/${card.id}`}>
-      <div className="bg-yellow-50">
+      <div className="">
         <div className="w-[285px] h-auto py-10 flex items-center flex-col bg-white shadow-2xl text-black px-5 rounded-2xl">
           <img src={card.image} alt="" srcset="" className="h-30 w-35" />
           <h1 className="font-bold mt-5">{card.title}</h1>

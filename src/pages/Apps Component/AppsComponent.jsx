@@ -6,12 +6,12 @@ const AppsComponent = () => {
   const largeData = useLoaderData();
   return (
     <div className="flex w-full flex-col items-center">
-      <h1 className="text-4xl font-semibold mb-3">Our All Applications</h1>
+      <h1 className="text-4xl font-semibold mb-3 mt-5">Our All Applications</h1>
       <p>
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
       <div className="appsFoundSearch w-full flex items-center justify-between">
-        <h1>({largeData.length}) Apps Found</h1>
+        <h1>({largeData.length+1}) Apps Found</h1>
         <input
           type="text"
           placeholder="Search Apps"
