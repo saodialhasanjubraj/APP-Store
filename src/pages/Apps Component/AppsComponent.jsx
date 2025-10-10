@@ -11,20 +11,20 @@ const AppsComponent = () => {
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
       <div className="appsFoundSearch w-full flex items-center justify-between">
-        <h1>({largeData.length+1}) Apps Found</h1>
+        <h1>({largeData.length + 1}) Apps Found</h1>
         <input
           type="text"
           placeholder="Search Apps"
           className="border-2 border-gray-300 pl-1"
         />
       </div>
-      <Suspense fallback={<h1>data loading............</h1>}>
-        <div className="grid grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
+      <div className="grid grid-cols-1 lg:grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
+        <Suspense fallback={<h1>data loading............</h1>}>
           {largeData.map((card) => (
             <CardComponent card={card} />
           ))}
-        </div>
-      </Suspense>
+        </Suspense>
+      </div>
     </div>
   );
 };

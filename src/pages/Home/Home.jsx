@@ -7,7 +7,7 @@ const Home = () => {
 
   return (
     <div className="w-full flex flex-col justify-center items-center">
-      <h1 className="text-7xl font-semibold text-center mt-8 mb-5">
+      <h1 className="text-2xl lg:text-7xl font-semibold text-center mt-8 mb-5">
         We Build <br /> <span className="text-purple-400">Productive</span> Apps
       </h1>
       <p>
@@ -25,6 +25,7 @@ const Home = () => {
               height="60"
               src="https://img.icons8.com/fluency/48/google-play.png"
               alt="google-play"
+              className="lg:h-15 h-10 lg:w-15 w-10"
             />
             Google Play
           </button>
@@ -36,6 +37,7 @@ const Home = () => {
               height="60"
               src="https://img.icons8.com/color/48/apple-app-store--v3.png"
               alt="apple-app-store--v3"
+              className="lg:h-15 h-10 lg:w-15 w-10"
             />
             App Store
           </button>
@@ -49,9 +51,7 @@ const Home = () => {
       />
 
       <TotalUseInfo />
-      <Suspense
-        fallback={<span className="loading loading-spinner loading-xl"></span>}
-      >
+      <Suspense fallback={<span className="loading ">data loading</span>}>
         <TreandingApps data={data} />
       </Suspense>
     </div>
