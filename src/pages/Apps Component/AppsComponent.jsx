@@ -6,7 +6,7 @@ const AppsComponent = () => {
   const largeData = useLoaderData();
   const handleInputValue = (e) => {
     e.preventDefault();
-    // console.log(inputvalue, "from input box");
+    console.log(FormData.get("appName"));
   };
   return (
     <div className="flex w-full flex-col items-center">
@@ -16,13 +16,15 @@ const AppsComponent = () => {
       </p>
       <div className="appsFoundSearch w-full flex items-center justify-between">
         <h1>({largeData.length}) Apps Found</h1>
-        <input
-          type="text"
-          placeholder="Search Apps"
-          className="border-2 border-gray-300 pl-1"
-          onChange={handleInputValue}
-          // value={inputvalue}
-        />
+        <form onSubmit={useLoaderData}>
+          <input
+            type="text"
+            placeholder="Search Apps"
+            className="border-2 border-gray-300 pl-1"
+            onChange={handleInputValue}
+            name="appName"
+          />
+        </form>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
         <Suspense fallback={<h1>data loading............</h1>}>

@@ -24,8 +24,13 @@ const AppDetails = () => {
   } = searchApp;
   const notify = () => toast(title + " " + "installing");
 
-  const [setStoreDownloadInfromation] = use(StoreAppInformationContext);
-
+  const [storeDownloadInfromation, setStoreDownloadInfromation] = use(
+    StoreAppInformationContext
+  );
+  const dowloadShowOnSite = (searchApp) => {
+    const newApp = [...storeDownloadInfromation, searchApp];
+    setStoreDownloadInfromation(newApp);
+  };
   return (
     <div>
       <div className="flex">
@@ -87,7 +92,8 @@ const AppDetails = () => {
               disabled={disAbled}
               onClick={() => {
                 setDisAble(true), notify();
-                setStoreDownloadInfromation(searchApp);
+                // setStoreDownloadInfromation(searchApp)
+                dowloadShowOnSite(searchApp);
               }}
             >
               {disAbled ? "Downloaded" : "Download"} ({size} MB)
