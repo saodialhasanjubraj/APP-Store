@@ -1,9 +1,10 @@
 import { Download } from "lucide";
-import React, { useState } from "react";
+import React, { use, useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import { ToastContainer, toast } from "react-toastify";
-
 import RatingBarCahrt from "../../components/RatingBarChat/RatingBarCahrt";
+import { StoreAppInformationContext } from "../Root/Root";
+
 const AppDetails = () => {
   const [disAbled, setDisAble] = useState(false);
   const { id } = useParams();
@@ -22,6 +23,9 @@ const AppDetails = () => {
     ratings,
   } = searchApp;
   const notify = () => toast(title + " " + "installing");
+
+  const [setStoreDownloadInfromation] = use(StoreAppInformationContext);
+
   return (
     <div>
       <div className="flex">
@@ -29,15 +33,15 @@ const AppDetails = () => {
           <img src={image} alt="" srcset="" className="h-60 w-60 rounded-2xl" />
           <div className="textBox">
             <h1 className="text-2xl my-2.5 font-bold">{title}</h1>
-            <h1 className="border-b-2">
-              Developed by:
+            <div className="border-b-2 flex gap-1">
+              <h1> Developed by: </h1>
               <span
                 className="text-purple-500 font-semibold"
                 style={{ fontFamily: "arial" }}
               >
                 {companyName}
               </span>
-            </h1>
+            </div>
             <div className="performanceBox flex items-center gap-x-15 mt-5">
               <div className="iconBox flex flex-col items-center h-20 w-20 lg:w-30 justify-center">
                 <img
@@ -83,6 +87,7 @@ const AppDetails = () => {
               disabled={disAbled}
               onClick={() => {
                 setDisAble(true), notify();
+                setStoreDownloadInfromation(searchApp);
               }}
             >
               {disAbled ? "Downloaded" : "Download"} ({size} MB)

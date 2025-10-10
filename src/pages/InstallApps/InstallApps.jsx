@@ -1,10 +1,17 @@
-import React, { useState } from 'react'
-
+import { use } from "react";
+import { StoreAppInformationContext } from "../Root/Root";
 const InstallApps = () => {
-  const [downloadApp, setDownlo]= useState()
-  return (
-    <div>InstallApps</div>
-  )
-}
+  const [storeDownloadInfromation] = use(StoreAppInformationContext);
 
-export default InstallApps
+  console.log(storeDownloadInfromation, "log from installApp");
+
+  return (
+    <div>
+      {storeDownloadInfromation.map((e) => (
+        <li>{e.companyName}</li>
+      ))}
+    </div>
+  );
+};
+
+export default InstallApps;

@@ -4,6 +4,10 @@ import CardComponent from "../../components/Card Component/CardComponent";
 
 const AppsComponent = () => {
   const largeData = useLoaderData();
+  const handleInputValue = (e) => {
+    e.preventDefault();
+    // console.log(inputvalue, "from input box");
+  };
   return (
     <div className="flex w-full flex-col items-center">
       <h1 className="text-4xl font-semibold mb-3 mt-5">Our All Applications</h1>
@@ -16,6 +20,8 @@ const AppsComponent = () => {
           type="text"
           placeholder="Search Apps"
           className="border-2 border-gray-300 pl-1"
+          onChange={handleInputValue}
+          // value={inputvalue}
         />
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-4 w-full gap-x-auto mx-auto gap-y-3 mt-10">
