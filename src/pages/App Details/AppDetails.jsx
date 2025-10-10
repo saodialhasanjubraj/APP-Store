@@ -8,10 +8,7 @@ const AppDetails = () => {
   const [disAbled, setDisAble] = useState(false);
   const { id } = useParams();
   const largeData = useLoaderData();
-  const [downLoad, setDownload] = useState([]);
   const searchApp = largeData.find((app) => app.id === Number(id)); //* this function is call the clicked card details using useParms {id}
-
-  console.log(downLoad);
 
   const {
     image,
@@ -85,9 +82,7 @@ const AppDetails = () => {
               className="btn btn-accent mt-4"
               disabled={disAbled}
               onClick={() => {
-                setDownload([...downLoad, searchApp]),
-                  setDisAble(true),
-                  notify();
+                setDisAble(true), notify();
               }}
             >
               {disAbled ? "Downloaded" : "Download"} ({size} MB)

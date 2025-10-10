@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 const InstallApps = () => {
+  const [downloadApp, setDownlo]= useState()
   return (
     <div>InstallApps</div>
   )

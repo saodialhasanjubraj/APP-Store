@@ -21,7 +21,7 @@ const RatingBarCahrt = ({ ratings }) => {
         <XAxis type="number" />
         <YAxis type="category" scale="band" />
 
-        <Bar dataKey="count" barSize={20} fill="#413ea0" />
+        <Bar dataKey="count" barSize={40} fill="#413ea0" />
         <Line stroke="#FFFF00" />
       </ComposedChart>
     </div>

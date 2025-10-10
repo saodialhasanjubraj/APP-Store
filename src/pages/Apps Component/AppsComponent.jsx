@@ -11,7 +11,7 @@ const AppsComponent = () => {
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
       <div className="appsFoundSearch w-full flex items-center justify-between">
-        <h1>({largeData.length + 1}) Apps Found</h1>
+        <h1>({largeData.length}) Apps Found</h1>
         <input
           type="text"
           placeholder="Search Apps"

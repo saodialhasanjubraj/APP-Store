@@ -5,6 +5,7 @@ import Home from "../pages/Home/Home";
 import AppsComponent from "../pages/Apps Component/AppsComponent";
 import InstallApps from "../pages/InstallApps/InstallApps";
 import AppDetails from "../pages/App Details/AppDetails";
+import PageNotFound from "../pages/Error/PageNot Found/PageNotFound";
 
 export const router = createBrowserRouter([
   {
@@ -28,6 +29,7 @@ export const router = createBrowserRouter([
         path: "/appDetails/:id",
         Component: AppDetails,
         loader: () => fetch("/largeDataFile.json"),
+        errorElement:<PageNotFound/>
       },
     ],
   },
